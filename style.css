@@ -1,0 +1,79 @@
+element.style {
+    text-align: center;
+}
+
+.btn-blue {
+	style="text-align: center
+	background-color: #9500b0;
+	color: #eeebe5;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+h2{
+	color: #9500b0;
+	front-size: 20px;
+	front-weight: 500;
+}
+h1{
+	color: #1B171C;
+	font-size: 20px;
+	front-weight: 600;
+}
+
+
+
+body {
+	background: #EEEBE5;
+	color: gray;
+	front-size: 'lora', serif;
+	front-size: 17px;
+	front-weight: ligter;
+
+}
+
+.rs4{
+	color: grey;
+	height: 32px;
+	width: 32px;
+}
+
+.rs{
+	color: grey;
+	height: 32px;
+	width: 32px;
+}
+
+#nom{
+
+}
+
+margin: 20px
+
+
+body {
+	background: #EEEBE5;
+	color: gray;
+	front-size: 'lora', serif;
+	front-size: 17px;
+	front-weight: ligter;
+
+}
+
+.rs4{
+	color: grey;
+	height: 32px;
+	width: 32px;
+}
+
+.rs{
+	color: grey;
+	height: 32px;
+	width: 32px;
+}
+
+#nom{
+
+}
+
+margin: 20px
